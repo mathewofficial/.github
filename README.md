@@ -1,1 +1,3 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+# Bio
+Hi, I'm MatMat and these are my skills:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
